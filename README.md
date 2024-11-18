@@ -89,6 +89,7 @@ quizify/
 ├── package.json (not included in the repo)
 ├── .env (not included in the repo)
 ├── README.md
+|---server.js
 ```
 
 ---
